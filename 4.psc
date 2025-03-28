@@ -1,0 +1,9 @@
+Algoritmo Área_del_rectángulo 
+	Definir b,h Como Real
+	Escribir "Ingrese el valor de la base: "
+	Leer b
+	Escribir "Ingrese el valor de la altura: "
+	Leer h
+	Escribir "El área del rectangulo es: ", b*h
+	
+FinAlgoritmo
